@@ -1,0 +1,54 @@
+2024-10-07 04:04:04 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-07 04:38:39 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-07 06:39:33 - PHP Warning:  mkdir(): File exists in C:\xampp\htdocs\Myopencart\system\storage\vendor\twig\twig\src\Cache\FilesystemCache.php on line 50
+2024-10-10 04:45:31 - Error: MySQL server has gone away<br/>Error No: 2006<br/>SELECT * FROM `oc_store` WHERE REPLACE(`url`, 'www.', '') = 'http://localhost/Myopencart/': in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-10-10 04:45:38 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-31 04:07:10 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-31 04:07:18 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-31 05:05:39 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-31 05:06:16 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-31 05:06:32 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-10-31 05:07:36 - Error: Could not make a database link using root@localhost!<br/>Message: No connection could be made because the target machine actively refused it: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 40
+2024-12-20 09:57:44 - 0:  Unsupported operand types: string * int
+File: C:\xampp\htdocs\Myopencart\admin\controller\setting\store.php
+Line: 115
+
+2024-12-20 09:57:50 - 0:  Unsupported operand types: string * int
+File: C:\xampp\htdocs\Myopencart\admin\controller\setting\store.php
+Line: 115
+
+2024-12-20 09:57:51 - 0:  Unsupported operand types: string * int
+File: C:\xampp\htdocs\Myopencart\admin\controller\setting\store.php
+Line: 115
+
+2024-12-20 09:57:56 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 09:58:53 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 09:58:53 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 09:58:53 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 09:59:01 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 09:59:01 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 09:59:01 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 09:59:01 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 09:59:01 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 09:59:01 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 09:59:01 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 09:59:01 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 09:59:01 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 09:59:02 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 09:59:02 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 09:59:02 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 10:00:20 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 10:00:20 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 10:00:20 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 10:01:47 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 10:01:47 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 10:01:47 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 10:02:10 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 10:02:10 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 10:02:10 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 10:02:35 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 10:02:35 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 10:02:35 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
+2024-12-20 10:02:38 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 97
+2024-12-20 10:02:38 - PHP Warning:  Undefined array key "extension" in C:\xampp\htdocs\Myopencart\catalog\model\localisation\language.php on line 109
+2024-12-20 10:02:39 - Error: Unknown column 'extension' in 'field list'<br/>Error No: 1054<br/>SELECT DISTINCT `extension` FROM `oc_extension`: in C:\xampp\htdocs\Myopencart\system\library\db\mysqli.php on line 76
